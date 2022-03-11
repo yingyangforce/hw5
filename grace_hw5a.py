@@ -6,6 +6,7 @@
 # Description: checks if second char == second to last char
 # Collabs: N/a
 
+# Task A ---
 def nameChecker(name) -> bool:
     if len(name) <= 1:
         return False
