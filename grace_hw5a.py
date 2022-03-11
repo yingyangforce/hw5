@@ -1,4 +1,4 @@
-# File: grace-hw5a.py
+# File: grace_hw5a.py
 # Author: Isaiah Grace
 # Date: 2022/3/11
 # Lab Section: Tuesday
